@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-developer-1",
+  "version": "1.0.0",
+  "description": "A developer who can implement and build backend applications using NodeJS and Express.",
+  "scripts": {
+    "server": "node server",
+    "cli": "node cli"
+  },
+  "keywords": [
+    "server",
+    "cli"
+  ],
+  "author": "Axel Somerseth Cordova <axelsomerseth@gmail.com>",
+  "license": "MIT"
+}
