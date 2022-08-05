@@ -76,12 +76,12 @@
 	},
 	{
 		"id": 16,
-		"quote": "I’m not a great programmer; I’m just a good programmer with great habits.",
+		"quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
 		"author": "Kent Beck"
 	},
 	{
 		"id": 17,
-		"quote": "How you look at it is pretty much how you’ll see it",
+		"quote": "How you look at it is pretty much how you'll see it",
 		"author": "Rasheed Ogunlaru"
 	},
 	{
@@ -96,12 +96,12 @@
 	},
 	{
 		"id": 20,
-		"quote": "Never trust a computer you can’t throw out a window.",
+		"quote": "Never trust a computer you can't throw out a window.",
 		"author": "Anonymous"
 	},
 	{
 		"id": 21,
-		"quote": "It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.",
+		"quote": "It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free.",
 		"author": "Steve McConnell"
 	},
 	{
@@ -111,7 +111,7 @@
 	},
 	{
 		"id": 23,
-		"quote": "Programming isn’t about what you know; it’s about what you can figure out.",
+		"quote": "Programming isn't about what you know; it's about what you can figure out.",
 		"author": "Chris Pine"
 	},
 	{
@@ -121,7 +121,7 @@
 	},
 	{
 		"id": 25,
-		"quote": "Sometimes it’s better to leave something alone, to pause, and that’s very true of programming.",
+		"quote": "Sometimes it's better to leave something alone, to pause, and that's very true of programming.",
 		"author": "Joyce Wheeler"
 	}
 ]
