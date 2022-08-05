@@ -11,5 +11,8 @@
     "cli"
   ],
   "author": "Axel Somerseth Cordova <axelsomerseth@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^2.0.3"
+  }
 }

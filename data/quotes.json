@@ -1,0 +1,127 @@
+[
+	{
+		"id": 1,
+		"quote": "Don't worry if it doesn't work right.If everything did, you'd be out of a job.",
+		"author": "Anonymous"
+	},
+	{
+		"id": 2,
+		"quote": "Don't comment bad code - rewrite it.",
+		"author": "Brian Kernighan"
+	},
+	{
+		"id": 3,
+		"quote": "A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen.",
+		"author": "Paul Graham"
+	},
+	{
+		"id": 4,
+		"quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+		"author": "Rajanand"
+	},
+	{
+		"id": 5,
+		"quote": "The computer was born to solve problems that did not exist before.",
+		"author": "Bill Gates"
+	},
+	{
+		"id": 6,
+		"quote": "We have to stop optimizing for programmers and start optimizing for users.",
+		"author": "Jeff Atwood"
+	},
+	{
+		"id": 7,
+		"quote": "All computers wait at the same speed.",
+		"author": "Anonymous"
+	},
+	{
+		"id": 8,
+		"quote": "Computers will overtake humans with AI at some point within the next 100 years. When that happens, we need to make sure the computers have goals aligned with ours.",
+		"author": "Stephen Hawking"
+	},
+	{
+		"id": 9,
+		"quote": "Don't compare yourself with anyone in this world... if you do so, you are insulting yourself.",
+		"author": "Bill Gates"
+	},
+	{
+		"id": 10,
+		"quote": "If you are born poor it's not your mistake, but if you die poor it's your mistake.",
+		"author": "Bill Gates"
+	},
+	{
+		"id": 11,
+		"quote": "Any fool can use a computer. Many do.",
+		"author": "Ted Nelson"
+	},
+	{
+		"id": 12,
+		"quote": "First, solve the problem. Then, write the code.",
+		"author": "John Johnson"
+	},
+	{
+		"id": 13,
+		"quote": "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.",
+		"author": "Linus Torvalds"
+	},
+	{
+		"id": 14,
+		"quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+		"author": "Harold Abelson"
+	},
+	{
+		"id": 15,
+		"quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+		"author": "Martin Fowler"
+	},
+	{
+		"id": 16,
+		"quote": "I’m not a great programmer; I’m just a good programmer with great habits.",
+		"author": "Kent Beck"
+	},
+	{
+		"id": 17,
+		"quote": "How you look at it is pretty much how you’ll see it",
+		"author": "Rasheed Ogunlaru"
+	},
+	{
+		"id": 18,
+		"quote": "Intelligence is the ability to avoid doing work, yet getting the work done.",
+		"author": "Linus Torvalds"
+	},
+	{
+		"id": 19,
+		"quote": "The question of whether computers can think is like the question of whether submarines can swim.",
+		"author": "Anonymous"
+	},
+	{
+		"id": 20,
+		"quote": "Never trust a computer you can’t throw out a window.",
+		"author": "Anonymous"
+	},
+	{
+		"id": 21,
+		"quote": "It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.",
+		"author": "Steve McConnell"
+	},
+	{
+		"id": 22,
+		"quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+		"author": "Edward V Berard"
+	},
+	{
+		"id": 23,
+		"quote": "Programming isn’t about what you know; it’s about what you can figure out.",
+		"author": "Chris Pine"
+	},
+	{
+		"id": 24,
+		"quote": "The only way to learn a new programming language is by writing programs in it.",
+		"author": "Dennis Ritchie"
+	},
+	{
+		"id": 25,
+		"quote": "Sometimes it’s better to leave something alone, to pause, and that’s very true of programming.",
+		"author": "Joyce Wheeler"
+	}
+]
