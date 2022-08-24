@@ -12,6 +12,8 @@ const nanospinner = require("nanospinner");
 
 const gradient = require("gradient-string");
 
+const { getRandomNumber } = require("../utils");
+
 // TODO (optional): implement chalk-animation
 
 const getFormattedOutput = (quote = "", author = "") => {
@@ -59,7 +61,7 @@ setTimeout(() => {
     .then((answers) => {
       // Use user feedback
       if (answers.author === "Random") {
-        const randomIndex = Math.floor(Math.random() * quotes.length);
+        const randomIndex = getRandomNumber(quotes.length);
         const randomQuote = quotes[randomIndex];
         const output = getFormattedOutput(
           randomQuote.quote,
@@ -67,13 +69,11 @@ setTimeout(() => {
         );
         console.log(output);
       } else if (answers.author) {
-        const quotesFromSelectedAuthor = quotes.filter(
+        const quotesByAuthor = quotes.filter(
           (q) => q.author === answers.author
         );
-        const randomIndex = Math.floor(
-          Math.random() * quotesFromSelectedAuthor.length
-        );
-        const selectedQuote = quotesFromSelectedAuthor[randomIndex];
+        const randomIndex = getRandomNumber(quotesByAuthor.length);
+        const selectedQuote = quotesByAuthor[randomIndex];
         const output = getFormattedOutput(
           selectedQuote.quote,
           selectedQuote.author
